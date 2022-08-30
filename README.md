@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MRGDisGOD
 - 👀 I’m interested in Coding, and anime
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on some c++ games
 - 📫 How to reach me: Margad Enkhtaivan on fb
 
 <!---
